@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Chess_Enthusiast-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Enthusiast" />
   
   <!-- Cake Addict -->
- <img src="https://img.shields.io/badge/🍰_Cake_Addict-FFA2D2?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/🍰_Cake_Lover-FFA2D2?style=for-the-badge&logoColor=white" />
 </p>
 
   <!-- Location with Pin -->
@@ -108,7 +108,10 @@ Baked with: Ballerina 🎀 + React ⚛️
   <br>
   
 ## 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nethminiwelgama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethminiwelgama&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" width="48%" /> </p>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nethminiwelgama&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethminiwelgama&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" width="48%" /> 
+</p>
 <!-- Divider -->
   <hr style="width:60%; border: 0.5px solid #ccc;" />
   <br>
@@ -142,7 +145,7 @@ Baked with: Ballerina 🎀 + React ⚛️
 ## 🎵 Currently Listening
 
 <p align="center">
-  <a href="[[Your Spotify/Apple Music link]" target="_blank](https://www.youtube.com/watch?v=YHRvDo8rUoQ)">
+  <a href="https://www.youtube.com/watch?v=YHRvDo8rUoQ">
     <img src="https://img.shields.io/badge/Click_here_to_listen-6A0DAD?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
   </a>
 </p>
@@ -151,7 +154,7 @@ Baked with: Ballerina 🎀 + React ⚛️
 ## 🎂 Buy Me a Cake
 
 <p align="center">
-  <a href="[your-donation-link]" target="_blank">
+  <a href="https://www.lemon8-app.com/seo/image?item_id=7123027284201587202&index=1&sign=0d698558655abf4f047a9c59444891da"_blank">
     <img src="https://img.shields.io/badge/Buy_me_a_cake-FFA2D2?style=for-the-badge&logo=cakephp&logoColor=black" alt="Buy Me a Cake" />
   </a>
 </p>
