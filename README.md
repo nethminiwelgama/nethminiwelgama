@@ -38,7 +38,7 @@
 
 <!-- About Me Dropdown Only -->
 <details>
-  <summary><b>🦄 About Me</b></summary>
+  <summary><b>🦄 About Me(in pytHon)</b></summary>
   
   ```python
   class Nethmini:
@@ -51,7 +51,7 @@
               "Design": ["Figma", "Adobe XD", "UI/UX"]
           }
           self.hobbies = ["🏊‍♀️ swimming","🪴 Gardening","💃 Dancing", "🎨 Drawing", "🎭 Acting", "👩‍🍳 cooking"]
-          self.quote = "Turning coffee into code since 2020"
+          self.quote = "Turning cake into code since 2022"
       
       def say_hello(self):
           print("Let's build something amazing together!")
@@ -131,11 +131,11 @@ Baked with: Ballerina 🎀 + React ⚛️
 
 
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.linkedin.com/in/nethmini-welgama-42a695325/?originalSubdomain=lk"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=leetcode&logoColor=black" alt="facebook"></a> 
-  <a href="https://youtube.com/yourusername"><img src="https://img.shields.io/badge/YOU TUBE-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="you tube"></a> 
+  <a href="https://www.instagram.com/nethu.welgama/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=61553175157739"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=leetcode&logoColor=black" alt="facebook"></a> 
+  <a href="https://www.youtube.com/@NethuWelgama"><img src="https://img.shields.io/badge/YOU TUBE-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="you tube"></a> 
   <a href="https://hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> 
   <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a> 
